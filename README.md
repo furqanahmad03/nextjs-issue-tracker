@@ -11,6 +11,10 @@ This is an Issue Tracker application built with **Next.js**, **MySQL**, and **Pr
 
 ## Getting Started
 
+### Issue Tracker Demo Video
+
+https://github.com/user-attachments/assets/bcc08809-e4eb-44f5-be87-fdd8e6bf7bcb
+
 ### Prerequisites
 
 Make sure you have the following installed on your system:
