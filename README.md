@@ -28,6 +28,8 @@ Make sure you have the following installed on your system:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/furqanahmad03/nextjs-issue-tracker.git
+   ```
+   ```bash
    cd nextjs-issue-tracker
    ```
 
