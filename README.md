@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/bcc08809-e4eb-44f5-be87-fdd8e6bf7bcb
 Make sure you have the following installed on your system:
 
 - **[Node.js](https://nodejs.org)** (version 14 or later)
-- **[MySQ](https://www.mysql.com/)L** (version 5.7 or later)
+- **[MySQL](https://www.mysql.com/)** (version 5.7 or later)
 - **[Prisma](https://www.prisma.io/)**
 
 ### Installation
